@@ -30,6 +30,8 @@
 margin: 0;
 padding: 0;
 vertical-align: baseline;
+background: #333333;
+color: aliceblue;
 }
 
 sup {
@@ -46,11 +48,11 @@ border-top: 1px solid #C2C2C2;
 
 div.smallexample, div.example
 {
-border: 1px solid silver;
-background: rgb(58, 57, 57);
+border: 1px solid #adadad;
+background: #4c4c4c;
 margin: 1em 0em 1em 0em;
-color: ##9c9c9e;
-border-radius: 4px;
+color: #4c4c4c;
+border-radius: 6px;
 }
 
 pre.example, pre.smallexample
@@ -120,7 +122,7 @@ margin-bottom: .5em;
 
 h1, h2, h3, h4, h5
 {
- color: #990000;
+color: #ff2e2e;
 }
 
 h1
@@ -266,7 +268,7 @@ pre.menu-comment
 
 code
 {
-    color: #900;
+    color: #fd9999;
 }
 
 kbd
@@ -283,7 +285,7 @@ kbd
 
 samp
 {
-    color: #046370;
+    color: #86f0ff;
 }
 
 var
