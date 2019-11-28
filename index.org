@@ -1,5 +1,4 @@
 #+TITLE: Mindustry Modding Guide
-** Dark Theme
 :PREAMBLE:
 #+AUTHOR: Simon Woodbury-Forget
 #+EMAIL: simonwoodburyforget@gmail.com
